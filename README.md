@@ -1,6 +1,6 @@
-# 🏥 Hospital Management System (SQL Project)
+#  Hospital Management System (SQL Project)
 
-## 📌 About the Project
+##  About the Project
 
 This project is a **Hospital Management System** created using **SQL**.
 It is designed to manage hospital data such as **patients, doctors, appointments, and treatments** in a structured way.
@@ -13,7 +13,7 @@ This project is mainly created for:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Database:** MySQL
 * **Language:** SQL
@@ -21,7 +21,7 @@ This project is mainly created for:
 
 ---
 
-## 📂 Project Features
+##  Project Features
 
 * Create hospital database and tables
 * Store patient details
@@ -32,7 +32,7 @@ This project is mainly created for:
 
 ---
 
-## 🗂️ Database Structure
+##  Database Structure
 
 The project includes tables such as:
 
@@ -46,7 +46,7 @@ Each table is connected properly using **primary keys** and **foreign keys**.
 
 ---
 
-## ▶️ How to Run This Project
+##  How to Run This Project
 
 1. Install **MySQL** on your system
 2. Open **MySQL Workbench** or CMD
@@ -60,7 +60,7 @@ Each table is connected properly using **primary keys** and **foreign keys**.
 
 ---
 
-## 📖 Who Can Use This Project?
+##  Who Can Use This Project?
 
 * Beginners learning SQL
 * Students (BCA, MCA, IT, CS)
@@ -68,7 +68,7 @@ Each table is connected properly using **primary keys** and **foreign keys**.
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 * Understanding database design
 * Writing SQL queries
@@ -77,7 +77,7 @@ Each table is connected properly using **primary keys** and **foreign keys**.
 
 ---
 
-## 🤝 Contribution
+##  Contribution
 
 Feel free to:
 
@@ -87,11 +87,8 @@ Feel free to:
 
 ---
 
-## 📜 License
+##  License
 
 This project is **free to use** for learning and educational purposes.
 
----
-
-### ⭐ If you like this project, don’t forget to give it a star!
 
